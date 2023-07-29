@@ -30,6 +30,10 @@ Doctrak is a document tracking system that allows users to create and track the 
    ```bash
    npm install
    ```
+    ```bash
+   cd backend
+   npm install
+   ```
 
 3. **Configure Redis**:
 
